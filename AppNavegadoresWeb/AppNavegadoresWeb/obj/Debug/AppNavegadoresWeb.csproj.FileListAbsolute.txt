@@ -1,0 +1,8 @@
+C:\Users\LAB104BPC10\Documents\Visual Studio 2012\AppNavegadoresWeb\AppNavegadoresWeb\bin\Debug\AppNavegadoresWeb.exe.config
+C:\Users\LAB104BPC10\Documents\Visual Studio 2012\AppNavegadoresWeb\AppNavegadoresWeb\bin\Debug\AppNavegadoresWeb.exe
+C:\Users\LAB104BPC10\Documents\Visual Studio 2012\AppNavegadoresWeb\AppNavegadoresWeb\bin\Debug\AppNavegadoresWeb.pdb
+C:\Users\LAB104BPC10\Documents\Visual Studio 2012\AppNavegadoresWeb\AppNavegadoresWeb\obj\Debug\AppNavegadoresWeb.Navegadores.resources
+C:\Users\LAB104BPC10\Documents\Visual Studio 2012\AppNavegadoresWeb\AppNavegadoresWeb\obj\Debug\AppNavegadoresWeb.Properties.Resources.resources
+C:\Users\LAB104BPC10\Documents\Visual Studio 2012\AppNavegadoresWeb\AppNavegadoresWeb\obj\Debug\AppNavegadoresWeb.csproj.GenerateResource.Cache
+C:\Users\LAB104BPC10\Documents\Visual Studio 2012\AppNavegadoresWeb\AppNavegadoresWeb\obj\Debug\AppNavegadoresWeb.exe
+C:\Users\LAB104BPC10\Documents\Visual Studio 2012\AppNavegadoresWeb\AppNavegadoresWeb\obj\Debug\AppNavegadoresWeb.pdb
